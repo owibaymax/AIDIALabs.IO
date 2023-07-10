@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIDIALabs.IO", "AIDIALabs.IO.csproj", "{A76BE097-36B7-40FD-8A56-6D6CA37BD6F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A76BE097-36B7-40FD-8A56-6D6CA37BD6F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A76BE097-36B7-40FD-8A56-6D6CA37BD6F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A76BE097-36B7-40FD-8A56-6D6CA37BD6F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A76BE097-36B7-40FD-8A56-6D6CA37BD6F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEBC6457-1312-44C7-9CB6-9D65D4AF30C9}
+	EndGlobalSection
+EndGlobal
